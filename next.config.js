@@ -2,8 +2,8 @@ const withImages = require('next-images');
 
 module.exports = withImages({
   output: 'export',
-  basePath: '/website_frontend',
-  assetPrefix: '/website_frontend/',
+  basePath: '/portfolio',
+  assetPrefix: '/portfolio/',
   compiler: {
     styledComponents: true
   },
