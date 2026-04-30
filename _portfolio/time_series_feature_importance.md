@@ -43,4 +43,4 @@ The TFT model is, in principle, able to capture complex interactions in data tha
 <br>
 
 ---
-Do you have time series data and would like to analyse or to train forecasting models with it? We're here to help you! [Get in touch with us](/#contact)!
+Do you have time series data and would like to analyse or to train forecasting models with it? We're here to help you! [Get in touch with us](mailto:luiz@taufferconsulting.com)!

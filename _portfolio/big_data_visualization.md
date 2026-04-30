@@ -52,5 +52,5 @@ Our partnership with the aerospace manufacturing company has resulted in a power
 
 ---
 
-Struggling with data visualization or big data processing? [Get in touch with us](/#contact)!
+Struggling with data visualization or big data processing? [Get in touch with us](mailto:luiz@taufferconsulting.com)!
 

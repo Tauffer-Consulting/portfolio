@@ -2,6 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import Link from 'next/link'
 import { CardStyled } from './card.style'
+import { withBase } from '../../../../lib/withBase'
 
 export const Card = ({ image, title, text, link, className = '' }) => (
   <CardStyled
@@ -16,7 +17,7 @@ export const Card = ({ image, title, text, link, className = '' }) => (
     <Link href={`/portfolio/${link}`} className="wrapper">
         <div className="image">
           <img
-            src={image}
+            src={withBase(image)}
             alt={`${title} | Tauffer Consulting`}
             style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center' }}
           />

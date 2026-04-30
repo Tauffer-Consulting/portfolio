@@ -47,4 +47,4 @@ The AI capabilities frontiers expand at an ever increasing speed, while open sou
 
 ---
 
-Do you want to empower your business with cutting edge AI? We can help you! [Get in touch with us](/#contact)!
+Do you want to empower your business with cutting edge AI? We can help you! [Get in touch with us](mailto:luiz@taufferconsulting.com)!

@@ -46,4 +46,4 @@ In summary, the combination of rich data sources, professional EDA and advanced 
 
 ---
 
-Do you work with digital marketing and want to explore the potential of your analytics data and create true business impact? [Get in touch with us](/#contact)!
+Do you work with digital marketing and want to explore the potential of your analytics data and create true business impact? [Get in touch with us](mailto:luiz@taufferconsulting.com)!

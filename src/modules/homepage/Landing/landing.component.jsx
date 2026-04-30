@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { LandingStyled } from './landing.style'
+import { withBase } from '../../../lib/withBase'
 
 export const Landing = () => {
   const words = [
@@ -43,7 +44,7 @@ export const Landing = () => {
     <LandingStyled>
       <div
         className="image"
-        style={{ backgroundImage: `url('/banner-003.jpg')` }}
+        style={{ backgroundImage: `url('${withBase('/banner-003.jpg')}')` }}
       />
 
       <div className="content">

@@ -1,6 +1,7 @@
 import React from 'react'
 
 import { TaufferStyled } from './tauffer.style'
+import { withBase } from '../../lib/withBase'
 
 export const Tauffer = ({
   hideNameOnMobile = false,
@@ -19,7 +20,7 @@ export const Tauffer = ({
   >
     <div className="logo">
       <img
-        src="/logo_circle.png"
+        src={withBase("/logo_circle.png")}
         alt="Tauffer Consulting"
         style={{ position: 'absolute', width: '100%', height: '100%', objectFit: 'contain' }}
       />

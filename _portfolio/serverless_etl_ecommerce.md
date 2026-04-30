@@ -41,4 +41,4 @@ In summary, we achieved higher ETL data throughput and reliable automatic schedu
 
 ---
 
-Does your business need help with ETL solutions or Cloud infrastructure? [Get in touch with us](/#contact)!
+Does your business need help with ETL solutions or Cloud infrastructure? [Get in touch with us](mailto:luiz@taufferconsulting.com)!

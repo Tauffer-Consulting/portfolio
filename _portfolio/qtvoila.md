@@ -45,4 +45,4 @@ GUIs are a very important part of full-fledged data applications, and PySide6 ma
 
 ---
 
-We at Tauffer Consulting have extensive experience with development of Data Visualization and Graphical User Interfaces. Do you need help finding the best visual approach to your data or application? [Get in touch with us](/#contact)!
+We at Tauffer Consulting have extensive experience with development of Data Visualization and Graphical User Interfaces. Do you need help finding the best visual approach to your data or application? [Get in touch with us](mailto:luiz@taufferconsulting.com)!

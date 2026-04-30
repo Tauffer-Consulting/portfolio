@@ -38,4 +38,4 @@ We teamed up with [Plotly](https://plotly.com) to develop their Enterprise grade
 
 ---
 
-We at Tauffer Consulting have extensive experience with development of Data Visualization and Graphical User Interfaces. Do you need help finding the best visual approach to your data or application? [Get in touch with us](/#contact)!
+We at Tauffer Consulting have extensive experience with development of Data Visualization and Graphical User Interfaces. Do you need help finding the best visual approach to your data or application? [Get in touch with us](mailto:luiz@taufferconsulting.com)!

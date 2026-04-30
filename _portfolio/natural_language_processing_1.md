@@ -43,4 +43,4 @@ The use of NLP in language learning applications has the potential to revolution
 
 ---
 
-Do you want to incorporate advanced Natural Language Processing solutions to your operations or products? [Get in touch with us](/#contact)!
+Do you want to incorporate advanced Natural Language Processing solutions to your operations or products? [Get in touch with us](mailto:luiz@taufferconsulting.com)!

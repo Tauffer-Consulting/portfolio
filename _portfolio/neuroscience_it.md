@@ -40,4 +40,4 @@ We actively collaborate on the development of open source software for electroph
 
 ---
 
-At Tauffer Consulting we love to put our skills to the service of science and academic research! Need assistance with software development, data science, visualization or user interfaces in your own research? [Get in touch with us](/#contact)!
+At Tauffer Consulting we love to put our skills to the service of science and academic research! Need assistance with software development, data science, visualization or user interfaces in your own research? [Get in touch with us](mailto:luiz@taufferconsulting.com)!

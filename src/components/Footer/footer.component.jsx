@@ -1,7 +1,7 @@
 import React from 'react'
 import { Tauffer } from '../Taufffer/tauffer.component'
 import { FooterStyled } from './footer.style'
-import { FaLinkedinIn, FaGithub } from 'react-icons/fa'
+import { FaLinkedinIn, FaGithub, FaEnvelope } from 'react-icons/fa'
 import Container from '../Container'
 
 export const Footer = () => (
@@ -38,6 +38,13 @@ export const Footer = () => (
               <FaGithub
                 size="1.5em"
                 title="Our Github"
+                style={{ cursor: 'pointer' }}
+              />
+            </a>
+            <a href="mailto:luiz@taufferconsulting.com">
+              <FaEnvelope
+                size="1.5em"
+                title="Email us"
                 style={{ cursor: 'pointer' }}
               />
             </a>

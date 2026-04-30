@@ -1,13 +1,14 @@
 import Link from 'next/link'
 import { PageLayout } from '../../components/PageLayout/page-layout.component'
 import { Error404Styled } from './error-404.style'
+import { withBase } from '../../lib/withBase'
 
 export const Error404 = () => {
   return (
     <Error404Styled>
       <PageLayout mainClass="main">
         <div className="img">
-          <img src="/Error_404.svg" alt="404 Error" style={{ position: 'absolute', width: '100%', height: '100%', objectFit: 'contain' }} />
+          <img src={withBase("/Error_404.svg")} alt="404 Error" style={{ position: 'absolute', width: '100%', height: '100%', objectFit: 'contain' }} />
         </div>
         <div className="content">
           <h3>What are you looking for?</h3>

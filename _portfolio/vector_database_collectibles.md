@@ -41,4 +41,4 @@ Through our approach, utilizing vector databases alongside advanced LLM embeddin
 
 ---
 
-Do you want to empower your business with cutting edge Large Language Models capabilities? We can help you! [Get in touch with us](/#contact)!
+Do you want to empower your business with cutting edge Large Language Models capabilities? We can help you! [Get in touch with us](mailto:luiz@taufferconsulting.com)!

@@ -65,4 +65,4 @@ Domino is a transformative solution, being more than just an API integration and
 
 
 ---
-Want to equip your teams with the capacity to leverage the most advanced tools in your business? [Get in touch with us](/#contact) and experience Domino for free today!
+Want to equip your teams with the capacity to leverage the most advanced tools in your business? [Get in touch with us](mailto:luiz@taufferconsulting.com) and experience Domino for free today!

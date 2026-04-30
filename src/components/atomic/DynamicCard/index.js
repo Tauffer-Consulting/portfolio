@@ -3,6 +3,7 @@ import {
   DynamicCardStyled,
   CardList
 } from './styles';
+import { withBase } from '../../../lib/withBase';
 
 export default function DynamicCard({
   headerTitle,
@@ -16,7 +17,7 @@ export default function DynamicCard({
       <header>
         <div className='icon'>
           <img
-            src={cardIcon}
+            src={withBase(cardIcon)}
             alt={headerTitle}
             width={45}
             height={45}

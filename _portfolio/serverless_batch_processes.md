@@ -38,4 +38,4 @@ AWS Batch provides an efficient way to process and scale CPU-based as well as GP
 
 ---
 
-Does your business need help with Cloud solutions? [Get in touch with us](/#contact)!
+Does your business need help with Cloud solutions? [Get in touch with us](mailto:luiz@taufferconsulting.com)!

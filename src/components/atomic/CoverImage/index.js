@@ -1,10 +1,11 @@
 import Link from 'next/link';
 import { Container } from './style';
+import { withBase } from '../../../lib/withBase';
 
 export default function CoverImage({ title, src, slug }) {
   const image = (
     <Container
-      src={src}
+      src={withBase(src)}
       alt={`Image example for ${title}`}
     />
   );

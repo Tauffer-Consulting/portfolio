@@ -38,4 +38,4 @@ Amazon Forecast can be a valuable tool for time series modeling at any scale of 
 
 ---
 
-Do you want to incorporate state-of-the-art Artificial Intelligence solutions into your operations? Need help with Cloud infrastruture? [Get in touch with us](/#contact)!
+Do you want to incorporate state-of-the-art Artificial Intelligence solutions into your operations? Need help with Cloud infrastruture? [Get in touch with us](mailto:luiz@taufferconsulting.com)!
