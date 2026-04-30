@@ -1,0 +1,50 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "postbuild": "next-sitemap --config next-sitemap.config.js",
+    "export": "next build",
+    "start": "next start"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  },
+  "dependencies": {
+    "classnames": "2.3.1",
+    "date-fns": "2.28.0",
+    "framer-motion": "^6.2.7",
+    "gray-matter": "^4.0.3",
+    "next": "^13.5.0",
+    "next-images": "^1.8.4",
+    "nextjs-breadcrumbs": "^1.1.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.3.1",
+    "react-is": "^18.2.0",
+    "react-reveal": "^1.2.2",
+    "react-typing-animation": "^1.6.2",
+    "rehype-parse": "^8.0.4",
+    "rehype-react": "^7.1.1",
+    "remark": "^14.0.2",
+    "remark-gfm": "^3.0.1",
+    "remark-html": "^15.0.1",
+    "styled-components": "^5.2.3"
+  },
+  "devDependencies": {
+    "babel-plugin-inline-react-svg": "^2.0.1",
+    "babel-plugin-styled-components": "^2.0.3",
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "next-sitemap": "^2.5.28",
+    "prettier": "^2.5.1"
+  }
+}

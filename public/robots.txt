@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.taufferconsulting.com/
+
+# Sitemaps
+Sitemap: https://www.taufferconsulting.com/sitemap.xml

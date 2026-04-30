@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Data Science",
+    "icon": "/solutions_icons/data_science.png",
+    "bodyText": "Your organization has an unexplored wealth: its data! With the proper handling and analytics it might provide invaluable insights.",
+    "emphasis": "We can help you unlock all your data potential with:",
+    "items": [
+      "Cleaning, Filtering and Transforming",
+      "Statistical Analysis",
+      "Feature Engineering",
+      "Dimensionality Reduction",
+      "Cluster Analysis"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence",
+    "icon": "/solutions_icons/machine_learning.png",
+    "bodyText": "From Commerce to Healthcare, Artificial Intelligence models are essential tools for future-proofing products, services and decision-making in any enterprise.",
+    "emphasis": "We can help you incorporate AI capabilities to your business with:",
+    "items": [
+      "Computer Vision",
+      "Natural Language Processing",
+      "Time Series data",
+      "Tabular data",
+      "Unstructured data"
+    ]
+  },
+  {
+    "title": "Cloud solutions",
+    "icon": "/solutions_icons/cloud_solutions.png",
+    "bodyText": "Moving your operations to the Cloud might yield significant benefits: autoscaling of resources, multiple choices of system configurations, improved availability and security.",
+    "emphasis": "We can help you plan, design and implement your Cloud solutions:",
+    "items": [
+      "DevOps, CI/CD",
+      "Software as a Service",
+      "Containers and Orchestration",
+      "Serverless solutions",
+      "Database and Storage management"
+    ]
+  },
+  {
+    "title": "Visualization",
+    "icon": "/solutions_icons/visualization.png",
+    "bodyText": "Every data tells a story, and there's nothing better to bring the right type of attention to your story than clean, beautiful and interactive visuals.",
+    "emphasis": "We can help you make your data shine with:",
+    "items": [
+      "Insightful graphics",
+      "Live Dashboards",
+      "Graphical User Interfaces",
+      "Interactive visualizations",
+      "Data analysis reports"
+    ]
+  }
+]
